@@ -1,0 +1,1 @@
+<view class="content maincontent data-v-57280228"><shop-list vue-id="8dd740cc-1" list-data="{{shopData}}" class="data-v-57280228" bind:__l="__l"></shop-list><tab-bar vue-id="8dd740cc-2" class="data-v-57280228" bind:__l="__l"></tab-bar></view>

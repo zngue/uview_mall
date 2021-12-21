@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "uView-center",
+  "enablePullDownRefresh": true,
+  "component": true,
+  "usingComponents": {
+    "u-link": "/uview-ui/components/u-link/u-link"
+  }
+}

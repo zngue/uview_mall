@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/**
+ * 下方引入的为uView UI的集成样式文件，为scss预处理器，其中包含了一些"u-"开头的自定义变量
+ * uView自定义的css类名和scss变量，均以"u-"开头，不会造成冲突，请放心使用 
+ */
+.price {
+  color: red;
+  font-weight: 700;
+  font-size: 34rpx;
+}
+.maincontent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.width50 {
+  width: 50%;
+}
+.borderRadius {
+  border-radius: 20rpx;
+}
+.copy-text {
+  width: 70rpx;
+  text-align: center;
+  background: #eee;
+  display: inline-block;
+  height: 40rpx;
+  border-radius: 10rpx;
+  line-height: 40rpx;
+  margin-left: 10rpx;
+}
+.width50rpx {
+  width: 220rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  padding-left: 30rpx;
+  text-align: justify;
+  text-align-last: justify;
+  text-justify: distribute-all-lines;
+}
+.width50rpxs {
+  width: 180rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  padding-left: 30rpx;
+  text-align: justify;
+  text-align-last: justify;
+  text-justify: distribute-all-lines;
+}
+.textRight {
+  text-align: right;
+  padding-right: 15rpx;
+  padding-left: 15rpx;
+  width: 100%;
+}
+.order-height {
+  font-size: 26rpx;
+  height: 55rpx;
+  padding-bottom: 10rpx;
+}
+.orderList {
+  padding: 20rpx;
+  font-family: "Microsoft YaHei",'Hiragino Sans GB','Helvetica','Arial';
+  background-color: #eee;
+}
+.orderList .order-list {
+  margin-top: 20rpx;
+  background: #fff;
+  width: 100%;
+  border-radius: 20rpx;
+}
+.orderList .order-list-price {
+  border-bottom: solid #ddd 2rpx;
+}
+.orderList .order-list-price-content {
+  text-align: right;
+  width: 100%;
+  padding-right: 10rpx;
+  color: red;
+  font-family: "Microsoft YaHei";
+}
+

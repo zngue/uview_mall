@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-cell-item": "/uview-ui/components/u-cell-item/u-cell-item"
+  }
+}

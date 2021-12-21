@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "商品列表",
+  "usingComponents": {
+    "shop-list": "/components/ShopList",
+    "tab-bar": "/components/TabBar"
+  }
+}
